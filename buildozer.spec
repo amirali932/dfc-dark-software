@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = Dark-Software
+title = DARKSOFTWARE
 
 # (str) Package name
-package.name = dfcpkg
+package.name = nfsApk
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.dfc
+package.domain = org.novfensec
 
 # (str) Source code where the main.py live
 source.dir = .
